@@ -21,14 +21,14 @@ galeria e formulário de contato.
 Responsável pela estrutura da página, incluindo cabeçalho, navegação,
 seções de conteúdo, títulos, textos, galeria, formulário e rodapé. O
 documento utiliza `lang="pt-BR"` e a estrutura básica de um documento
-HTML5. fileciteturn6file0L1-L10
+HTML5.
 
 ### CSS3
 
 Responsável pela identidade visual, layout e interações. Foram
 utilizados variáveis CSS, gradientes, sombras, bordas arredondadas,
 efeitos de `hover`, transições, animações, `focus-visible` e
-`prefers-reduced-motion`. fileciteturn6file1L1-L12
+`prefers-reduced-motion`.
 
 ## Estrutura da página
 
@@ -41,22 +41,21 @@ utilizando navegação por âncoras internas. fileciteturn6file0L11-L22
 
 Área inicial da página, com título de boas-vindas e imagem de destaque
 configurada como plano de fundo. O CSS utiliza `background-size: cover`
-e altura de `100vh`. fileciteturn6file1L135-L142
+e altura de `100vh`.
 
 ### Sobre
 
 Apresenta uma breve descrição da empresa e sua proposta de atendimento.
-fileciteturn6file0L28-L31
 
 ### Mapa
 
 Área reservada para informações de localização e futura implementação de
-mapa. fileciteturn6file0L32-L33
+mapa.
 
 ### Galeria
 
 Seção visual com imagens de cães, estruturada por meio de elementos
-`<img>`. fileciteturn6file0L34-L43
+`<img>`.
 
 ### Contato
 
@@ -74,10 +73,9 @@ como "Nick Code". fileciteturn6file0L60-L60
 A paleta foi construída principalmente com tons terrosos, creme e oliva.
 O CSS também utiliza sombras, gradientes, bordas arredondadas e
 transições para criar uma aparência mais elaborada.
-fileciteturn6file1L1-L12 fileciteturn6file1L144-L179
 
 Os botões possuem gradiente, bordas arredondadas, sombra e efeitos de
-interação. fileciteturn6file1L144-L170
+interação.
 
 ## Funcionalidades
 
@@ -103,8 +101,7 @@ interação. fileciteturn6file1L144-L170
 
 O projeto utiliza efeitos de `hover`, `active`, `focus-visible`,
 transições e animações. Há também uma regra para usuários que preferem
-reduzir animações e transições. fileciteturn6file1L107-L124
-fileciteturn6file1L225-L234
+reduzir animações e transições.
 
 ## Estrutura esperada
 
@@ -125,7 +122,7 @@ PetCão/
 ```
 
 O HTML referencia `css/style.css` e as imagens da galeria dentro de
-`img/`. fileciteturn6file0L5-L8 fileciteturn6file0L34-L43
+`img/`.
 
 ## Como executar
 
